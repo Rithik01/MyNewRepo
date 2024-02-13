@@ -1,2 +1,3 @@
 # MyNewRepo
-By Rithik Guleria
+
+By Rithik
